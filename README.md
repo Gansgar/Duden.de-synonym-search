@@ -2,6 +2,8 @@
 This Python 3 script searches through the raw html page of Duden.de for synonyms of the inputed word and makes it so incredible faster than the original page.
 
 ## How to use
+Install Python3 and open the `search_duden.py` file in the main directory with it.
+
 By default the script starts only with a word prompt. If a word is typed in correctly spelled with upper and lower case, the script shows the synonyms that Duden.de knows for that word.
 
 Example:
