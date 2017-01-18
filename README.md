@@ -28,9 +28,11 @@ with/no url     Activates/Deactivates the url output
 Because it needs to download the full .html, it sometimes
 can be quite slow to use it. But that should be in the
 rarest cases.
-  Also it uses a simlle HTML parser and works perfectly for
+
+  Also it uses a simple HTML parser and works perfectly for
 Duden.de at the 2016.01.10. This could change, if Duden
 updates there webpage layout.
+
   On Windows please set your shell at the beginning to
 UTF-8 encoding. That is possible by typing
 `$chcp 65001`
